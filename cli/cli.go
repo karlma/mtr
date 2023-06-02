@@ -8,7 +8,7 @@ import (
 	tm "github.com/buger/goterm"
 	pj "github.com/hokaccha/go-prettyjson"
 	"github.com/spf13/cobra"
-	"github.com/tonobo/mtr/pkg/mtr"
+	"github.com/karlma/mtr/pkg/mtr"
 )
 
 var (
